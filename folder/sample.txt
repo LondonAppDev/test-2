@@ -9,3 +9,9 @@ WRONG
 Be
 NOT RIGHT
 Exactly
+
+def hello():
+   """Hello Function"""
+      pass
+    
+end
